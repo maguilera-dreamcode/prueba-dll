@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import getMetaData from '../utils/getMetaData'
 const axios = require('axios');
 
 const FileUploadPage = (props) => {
