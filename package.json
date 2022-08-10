@@ -9,10 +9,13 @@
     "as-bind": "^0.8.2",
     "assemblyscript": "^0.20.18",
     "axios": "^0.27.2",
+    "edge-js": "^18.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.0"
+    "web-vitals": "^2.1.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
